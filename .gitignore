@@ -10,3 +10,4 @@ scTopics
 allFiredEvents
 
 scripts/*_tmp.js
+.env
